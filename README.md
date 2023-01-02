@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**samadkhanyz21/samadkhanyz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Associate Pricing Analyst at TEU Global.
+- Programmer and Engineer by Profession.
+- Masters in International Technology Transfer Management.
+- Currently learning Data Science and Machine Learning at SPICED Academy.
 
-Here are some ideas to get you started:
+## 📫 How to Reach Me
+<a href="https://www.linkedin.com/in/abdusamad1/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
+<a href="samadkhanyz21@gmail.com">
+    <img height="50" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png"/>
+</a>
+<a href="https://medium.com/@samadkhanyz21">
+    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
