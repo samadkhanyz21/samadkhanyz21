@@ -1,9 +1,13 @@
-<h1 align="left">Hi there 👋</h1>
-<h3 align="center">Programmer and Engineer by Profession.</h3>
+<h3 align="left">Hi there 👋</h3>
+
+![logo](https://github.com/samadkhanyz21/samadkhanyz21/blob/main/kristaps-ungurs-m9yUinHhh4o-unsplash.jpg)
+<h1 align="center">Programmer and Engineer by Profession.</h1>
 
 <img align="right" alt="animated_coding_gif" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🌱 I’m currently learning **OpenCV, Data Science and Machine Learning from SPICED Academy.**
+- Masters in International Technology Transfer Management.
+
+- 🌱 Currently learning **OpenCV, Data Science and Machine Learning from SPICED Academy.**
 
 - 📫 How to reach me **samadkhanyz21@gmail.com**
 
