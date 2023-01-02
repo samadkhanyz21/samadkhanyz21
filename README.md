@@ -1,9 +1,11 @@
-<h3 align="left">Hi there 👋</h3>
+<h2 align="left">Hi there 👋</h2>
 
-![logo](https://github.com/samadkhanyz21/samadkhanyz21/blob/main/kristaps-ungurs-m9yUinHhh4o-unsplash.jpg)
-<h1 align="center">Programmer and Engineer by Profession.</h1>
+![logo](https://github.com/samadkhanyz21/samadkhanyz21/blob/main/ales-nesetril-Im7lZjxeLhg-unsplash.jpg)
+<h1 align="center">Data Scientist and Machine Learning Engineer by Profession.</h1>
 
 <img align="right" alt="animated_coding_gif" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+- Associate Pricing Analyst at TEU Global.
 
 - Masters in International Technology Transfer Management.
 
