@@ -37,7 +37,7 @@
 <p><img align="left" width="47%" height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadkhanyz21&layout=compact" /></p>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/samadkhanyz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="samadkhanyz" /></a></p><br><br>
