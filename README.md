@@ -30,11 +30,11 @@
 
 <h3 align="left">Stats:</h3>
 
-<p><img align="left" width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=samadkhanyz21&show_icons=true&theme=radical" /></p>
+<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=samadkhanyz21&show_icons=true&theme=radical" /></p>
 
 <p><img align="left" width="47%" src="https://streak-stats.demolab.com?user=samadkhanyz21" alt="samadkhanyz21" /></p>
 
-<p><img align="left" width="47%" height="215" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samadkhanyz21&layout=compact" /></p>
+<p><img align="left" width="47%" height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadkhanyz21&layout=compact" /></p>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
