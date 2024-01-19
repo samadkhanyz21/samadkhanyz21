@@ -5,11 +5,15 @@
 
 <img align="right" alt="animated_coding_gif" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- Associate Pricing Analyst at TEU Global.
+- Position: Associate Pricing Analyst
 
-- Masters in International Technology Transfer Management.
+- Firm: Trade Expeditors USA Inc
 
-- 🌱 Currently learning **OpenCV, Data Science and Machine Learning from SPICED Academy.**
+- Master's Degree: International Technology Transfer Management
+
+- Bachelor's Degree: Electronics Engineering
+
+- 🌱 Focus Area <br> **Computer Vision <br> Deep Learning <br> Machine Learning <br> Data Science**
 
 - 📫 How to reach me **samadkhanyz21@gmail.com**
 
